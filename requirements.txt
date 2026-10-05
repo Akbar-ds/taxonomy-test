@@ -1,0 +1,6 @@
+groq
+pandas
+streamlit
+supabase
+streamlit-supabase-auth
+openpyxl
